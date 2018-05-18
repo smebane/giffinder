@@ -2,9 +2,24 @@
 body {
     padding-top: 200px;
    /* Required padding for .navbar-fixed-top. Change if height of navigation changes. */
+   background-color:#0099ff;
 }
 
 footer {
     padding-top: 100px;
     margin: 50px 0;
+}
+
+h3 {
+    font: sans-serif;
+    font-weight: 300px;
+    color: white;
+}
+
+div {
+    text-align: center;
+}
+
+input {
+    text-align: center;
 }
